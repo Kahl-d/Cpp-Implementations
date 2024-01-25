@@ -1,0 +1,3 @@
+/Users/khalidkhan/Workspace/CPP/Fav Number/cmake-build-debug/CMakeFiles/Fav_Number.dir
+/Users/khalidkhan/Workspace/CPP/Fav Number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/khalidkhan/Workspace/CPP/Fav Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

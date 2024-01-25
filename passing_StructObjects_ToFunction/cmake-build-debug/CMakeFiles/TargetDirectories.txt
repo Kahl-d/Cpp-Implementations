@@ -1,0 +1,3 @@
+/Users/khalidkhan/Workspace/CPP/passing_StructObjects_ToFunction/cmake-build-debug/CMakeFiles/passing_StructObjects_ToFunction.dir
+/Users/khalidkhan/Workspace/CPP/passing_StructObjects_ToFunction/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/khalidkhan/Workspace/CPP/passing_StructObjects_ToFunction/cmake-build-debug/CMakeFiles/rebuild_cache.dir

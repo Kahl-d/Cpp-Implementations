@@ -1,0 +1,11 @@
+# ninja log v5
+0	295	1694851558459032847	CMakeFiles/passing_StructObjects_ToFunction.dir/main.cpp.o	77d10ee6641f9fdb
+296	324	1694851558489122748	passing_StructObjects_ToFunction	907e91a39adb8ac1
+3	253	1694851581652711802	CMakeFiles/passing_StructObjects_ToFunction.dir/main.cpp.o	77d10ee6641f9fdb
+253	281	1694851581682327913	passing_StructObjects_ToFunction	907e91a39adb8ac1
+2	253	1694851618053744757	CMakeFiles/passing_StructObjects_ToFunction.dir/main.cpp.o	77d10ee6641f9fdb
+253	281	1694851618083964741	passing_StructObjects_ToFunction	907e91a39adb8ac1
+2	252	1694852242950189568	CMakeFiles/passing_StructObjects_ToFunction.dir/main.cpp.o	77d10ee6641f9fdb
+252	281	1694852242980636219	passing_StructObjects_ToFunction	907e91a39adb8ac1
+2	218	1694852249023700740	CMakeFiles/passing_StructObjects_ToFunction.dir/main.cpp.o	77d10ee6641f9fdb
+218	242	1694852249049833863	passing_StructObjects_ToFunction	907e91a39adb8ac1

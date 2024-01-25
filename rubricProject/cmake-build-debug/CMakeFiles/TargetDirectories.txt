@@ -1,0 +1,3 @@
+/Users/khalidkhan/Workspace/CPP/rubricProject/cmake-build-debug/CMakeFiles/rubricProject.dir
+/Users/khalidkhan/Workspace/CPP/rubricProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/khalidkhan/Workspace/CPP/rubricProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

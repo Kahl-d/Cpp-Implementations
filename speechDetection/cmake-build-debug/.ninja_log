@@ -1,0 +1,8 @@
+# ninja log v5
+0	5	0	clean	3c8e6cc385ee00ba
+2	586	1699838136108019239	CMakeFiles/speechDetection.dir/main.cpp.o	321aa603b7d664b7
+2	20	1699890357042252545	CMakeFiles/speechDetection.dir/tain.cpp.o	49863c6db233d83e
+0	33	1699846385378272454	build.ninja	93b9639b3380101e
+2	477	1699919621306824995	CMakeFiles/speechDetection.dir/fileIOs_wordPairs_main.cpp.o	2987682a99fd6990
+477	507	1699919621338051882	speechDetection	f7c28695cdaf60bb
+2	654	1699919534495569370	CMakeFiles/speechDetection.dir/fileIOs_wordPairs.cpp.o	332cd0a2396d44ac
